@@ -12,7 +12,7 @@ export default function Home() {
           <a href="Giovannib.dev@gmail.com" target="_blank" style={{"--i":9}}><i className='bx bxl-gmail'></i></a>
           <a href="https://api.whatsapp.com/send/?phone=55511974752533&text&type=phone_number&app_absent=0" target="_blank" style={{"--i":10}}><i className='bx bxl-whatsapp'></i></a>
         </div>
-        <a href="https://drive.google.com/file/d/1Ji9erMP7KqcXIe4uIaDVfl7M8X6SOtr6/view?usp=sharing" className="btn">Download CV</a>
+        <a href="https://drive.google.com/file/d/1XRlLW3Z_1Am3Y9-ZHb3CW7istH6KeYKD/view" className="btn">Download CV</a>
       </div>
       <div className="profession-container">
         <div className="profession-box">
